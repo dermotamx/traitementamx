@@ -1,5 +1,4 @@
 # AMX File for Omnia 9 Processing
-
 This file is designed for use with **Omnia 9**, a state-of-the-art audio processor developed by Telos Alliance. Omnia 9 is widely used in broadcasting to enhance audio quality, ensure consistent loudness, and optimize sound for various platforms.
 
 ## Purpose
